@@ -7,7 +7,7 @@ import java.util.Queue;
 public class Subsequence {
 
     /**
-     * Vyacheslav Shmatov
+     * Author: Vyacheslav Shmatov
      * Checks if it is possible to get a sequence which is equal to the first
      * one by removing some elements from the second one.
      *
