@@ -12,7 +12,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Vyacheslav Shmatov}
-* Codeship : {https://app.codeship.com/projects/e66e2c70-b6bc-0137-40d6-42889398840c/status?branch=master}
+* Codeship : https://app.codeship.com/projects/e66e2c70-b6bc-0137-40d6-42889398840c/status?branch=master
+https://user-images.githubusercontent.com/35808417/64776319-a565ce00-d560-11e9-9e8c-db03ac658472.PNG
 
 Example of Codeship badge. Please remove the example before you send us the link. 
 
